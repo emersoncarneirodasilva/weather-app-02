@@ -1,1 +1,7 @@
-# weather-app-starter
+# Weather App 02
+
+Projeto de um app de conusulta do clima de uma cidade ou país.
+
+Feito em React.JS, Tailwind CSS, hooks (useState e useEffect), axios, React icons, entre outro. O projeto tem como objetivo o aprendizado dos conceitos e utilização do framework CSS Tailwind.
+
+Construído atraves do vídeo do YouTube () do canal "" ().
